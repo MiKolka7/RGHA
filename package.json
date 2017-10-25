@@ -57,6 +57,9 @@
   "devDependencies": {
     "babel-preset-stage-0": "^6.24.1",
     "enzyme-adapter-react-16": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4",
+    "material-ui": "^0.19.4",
     "node-sass": "^4.5.3",
     "npm-run-all": "^4.0.2",
     "prop-types": "^15.5.10",
